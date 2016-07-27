@@ -1,12 +1,28 @@
 body{ 
     background-image: url("http://wallfon.com/walls/space/a-beautiful-deep-blue-nebula.jpg");
-    background-color: turquoise;
-}
+    color: turquoise; 
+    font-size: 24px
+    
+}  
 div{width: 500px; 
     border: 25px solid blue;
     padding: 25px;
     margin: 25px;
-    margin-left: 35%4it init
+    margin-left: 35%
+}    
+ h1{text-align: center
+ 
+ button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
-
-
+section{ 
+    display: block; 
+    color: black;
+}
